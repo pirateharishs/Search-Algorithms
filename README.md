@@ -18,25 +18,18 @@ To write a program to perform linear search and binary search using python progr
 6.	Repeat steps 2 to 5 until low meets high
 ## Program:
 i)	#Use a linear search method to match the item in a list.
-```
 
+![image](https://github.com/pirateharishs/Search-Algorithms/assets/166011385/20ad7080-203c-4626-962d-f630f35e7412)
 
-
-```
 ii)	# Find the element in a list using Binary Search(Iterative Method).
-```
 
 
+![image](https://github.com/pirateharishs/Search-Algorithms/assets/166011385/b6073545-a5ad-4624-9fce-faf8c5706190)
 
-
-
-```
 iii)	# Find the element in a list using Binary Search (recursive Method).
 ```
 
-
-
-
+![image](https://github.com/pirateharishs/Search-Algorithms/assets/166011385/0dfff68a-993c-4cab-af26-acd924b088a8)
 
 ```
 ## Sample Input and Output
